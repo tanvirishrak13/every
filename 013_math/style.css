@@ -1,0 +1,29 @@
+body{
+    background: black;
+    color: white;
+    text-align: center;
+}
+img{
+    display: block;
+}
+button{
+    background: rgb(0, 183, 255);
+    padding: 20px 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    transition: .6s;
+}
+#rres{
+    font-size: 100px;
+}
+
+img{
+    width: 200px;
+    margin: auto;
+}
+button:hover{
+    background: rgb(3, 217, 113);
+    color: white;
+}
